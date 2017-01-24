@@ -3,7 +3,7 @@ To practice what we've just learnt, we're going to build a very basic HTML and C
 
 _NB. If you are working in a code editor like Atom, then be sure to open the html page in your web browser and reload after each change you make._
 
-## Step 1: Adding Context to Content with HTML
+## Part 1: Adding Context to Content with HTML
 This is the copy we will be using for our example but feel free to replace it with your own.
 ```txt
 Ada Lovelace
@@ -90,9 +90,10 @@ Let's make the list of people a bullet pointed (unordered) list by wrapping in a
   <ul>
 </aside>
 ```
+---
 
-## Step 2: Adding Style to Content with CSS
-Next let's add some style to our site. In your CSS file or CSS tab in Codepen let's add the following rules. 
+## Part 2: Adding Style to Content with CSS
+Now that we've learnt about CSS, let's add some style to our site. In your CSS file or CSS tab in Codepen let's add the following rules. 
 
 ### Body
 Let's tell our page body to have 0 margin and a nice background-color e.g. thistle.
