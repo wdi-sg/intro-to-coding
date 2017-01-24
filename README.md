@@ -1,7 +1,7 @@
 # Intro to Coding
-To practice what we've just learnt, we're going to build a very basic HTML and CSS Page. If you have atom/sublime or some another code editor installed, then click this link to download the starter code. If not you can head over to [codepen](http://codepen.io/pen) where you can practice online.
+To practice what we've just learnt, we're going to build a very basic HTML and CSS Page. If you have atom/sublime or some another code editor installed, then [click here to download the starter code](https://github.com/wdi-sg/intro-to-coding/archive/master.zip). If not you can head over to [codepen](http://codepen.io/pen) and just practice online.
 
-If you are working in a code editor like Atom, then be sure to open the html page in your web browser and reload after each change you make.
+_NB. If you are working in a code editor like Atom, then be sure to open the html page in your web browser and reload after each change you make._
 
 ## Step 1: Adding Context to Content with HTML
 This is the copy we will be using for our example but feel free to replace it with your own.
