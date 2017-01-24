@@ -87,7 +87,7 @@ Let's make the list of people a bullet pointed (unordered) list by wrapping in a
     <li>Charles Babbage</li>
     <li>Alan Turing</li>
     <li>Percy Ludgate</li>
-  <ul>
+  </ul>
 </aside>
 ```
 ---
