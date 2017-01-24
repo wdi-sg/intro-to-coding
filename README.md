@@ -160,9 +160,10 @@ li:hover {
   font-weight: bold;
 }
 ```
+---
 
-## Step 3
-All done! View the results, smile and playaround with some styling ideas of your own :-) 
+## Part 3
+All done! View the results, smile and play around with some styling ideas of your own :-) 
 
 ---
 
