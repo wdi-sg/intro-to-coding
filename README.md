@@ -8,7 +8,7 @@ This is the copy we will be using for our example but feel free to replace it wi
 ```txt
 Ada Lovelace
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/220px-Ada_Lovelace_portrait.jpg" alt="image desc
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/220px-Ada_Lovelace_portrait.jpg
 
 Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. 
 
@@ -124,7 +124,7 @@ h2 {
 ```
 
 ### img
-Let's tell our img to have a 2 pixel wide solid border in purple. Let's change the corner radius to be 5px. Let's give it a 10px margin on all sides except the top. Also we can tell it to float to the left, this means that the text will wrap round.
+Let's tell our img to have a 2 pixel wide solid border in purple. Let's change the corner radius to be 5 percent. Let's give it a 10px margin on all sides except the top. Also we can tell it to float to the left, this means that the text will wrap round.
 ```css
 img {
   border: 2px solid purple;
